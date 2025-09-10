@@ -10,6 +10,7 @@ Creators: Theodorus Fransen, Giovanni Moretti, Paolo Ruffolo
 Contributors: Theodorus Fransen, Giovanni Moretti, Paolo Ruffolo, Federico Simone Samperi
 
 The MOLOR: Morphologically Linked Old Irish Resource project has received funding from the European Union’s Horizon Europe scientific research initiative under the Marie Skłodowska-Curie Actions (MSCA), grant agreement no. 101106220. 
+
 For more information, see https://centridiricerca.unicatt.it/circse/en/projects/moLor.html.
 
 
