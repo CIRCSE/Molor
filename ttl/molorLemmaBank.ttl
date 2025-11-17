@@ -7476,12 +7476,6 @@ molor:Base
       molor:hasPOS molor:noun ;
       ontolex:writtenRep "scoth" .
 
-<http://molor.eu/data/id/lemma/4450>
-      a       molor:Lemma ;
-      rdfs:label "aithirge" ;
-      molor:hasPOS molor:noun ;
-      ontolex:writtenRep "aithirge" .
-
 <http://molor.eu/data/id/lemma/4583>
       a       molor:Lemma ;
       rdfs:label "cúrsagad" ;

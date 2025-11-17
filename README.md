@@ -14,3 +14,6 @@ The _MOLOR: Morphologically Linked Old Irish Resource_ project has received fund
 
 ## Copyright
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />These resources are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+## Citation
+[![DOI](https://img.shields.io/badge/DOI-10.17632/dsb6f88kwj.1-<COLOR>.svg)](https://doi.org/10.17632/dsb6f88kwj.1)
